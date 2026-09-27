@@ -11,3 +11,5 @@ GitHub Pages 업로드:
 - 모바일 상담후기: 한 화면에 한 후기만 표시, 동일 높이 430px, 태그 하단 정렬
 - PC 3열 상담자/후기 구성 유지
 - 기존 OG 이미지 및 경량 assets 유지
+
+Mobile counselor order: Kim Bora -> Lim Yookyung -> Jeong Kyoyoung. Desktop order unchanged.

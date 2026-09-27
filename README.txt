@@ -1,14 +1,13 @@
-마음풍경 홈페이지 V7 Light Mobile Refined
+마음풍경 V7 Light Mobile Final Precision
 
-GitHub Pages 업로드용 경량 버전입니다.
-- 기존 V7 Light 콘텐츠/PC 구조 유지
-- 모바일 하단 고정 CTA 제거
-- 스크롤 후 상단 헤더에 상담 시작하기 CTA 표시
-- 상담후기 모바일 좌우 탐색 버튼/도트 추가
-- 상담자/상담후기 가로 스크롤 정돈
-- Space PC 가로 / 모바일 세로 이미지 유지
-- 한글 단어 단위 줄바꿈 보정
-- 실제 마음풍경 대기공간 사진 기반 OG 이미지 지정
-- 이미지 lazy loading 적용
+GitHub Pages 업로드:
+1. 이 폴더의 index.html과 assets 폴더를 저장소 루트에 업로드합니다.
+2. 기존 파일은 같은 이름으로 교체합니다.
+3. GitHub Pages 배포 완료 후 모바일 브라우저 캐시를 새로고침합니다.
 
-GitHub 저장소 루트에 index.html과 assets 폴더를 그대로 업로드하세요.
+이번 보정:
+- 모바일 정교영 소장 About 사진: 원본 비율 전체 표시(width 100%, height auto, object-fit contain)
+- 모바일 상담자: 한 화면에 한 명만 표시, 좌우 버튼/도트로 전환
+- 모바일 상담후기: 한 화면에 한 후기만 표시, 동일 높이 430px, 태그 하단 정렬
+- PC 3열 상담자/후기 구성 유지
+- 기존 OG 이미지 및 경량 assets 유지
